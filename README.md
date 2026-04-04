@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Personal Finance Companion Mobile App
 
 ## 🔎 Quick Start
@@ -123,3 +124,5 @@ Overall, my approach was not just about writing code — it was about **planning
 - Data Handling: Local mock data for profile and transactions; CSV export via exportService.js
 - Authentication (Simulated): Simple login/logout toggle to demonstrate flow
 - Platform Support: Mobile (iOS/Android) via Expo Go; limited web support with React Native Web
+
+

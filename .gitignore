@@ -1,43 +1,75 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
-# dependencies
+# Dependencies
 node_modules/
+jspm_packages/
+bower_components/
 
-# Expo
+# Expo / React Native
 .expo/
 dist/
 web-build/
 expo-env.d.ts
-
-# Native
-.kotlin/
-*.orig.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
+/ios
+/android
 
 # Metro
 .metro-health-check*
 
-# debug
-npm-debug.*
-yarn-debug.*
-yarn-error.*
+# Debug logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage
+*.lcov
+.nyc_output
+
+# Build / Release
+build/Release
+
+# Cache
+.cache
+.parcel-cache
+.next
+out
+.nuxt
+.cache/
+.temp
+.svelte-kit/
+.docusaurus
+
+# Environment files
+.env
+.env.*
+!.env.example
+.env*.local
 
 # macOS
 .DS_Store
-*.pem
 
-# local env files
-.env*.local
-
-# typescript
+# TypeScript
 *.tsbuildinfo
 
-app-example
+# Yarn
+.yarn/*
+.pnp.*
+.yarn-integrity
 
-# generated native folders
-/ios
-/android
+# Misc
+*.tgz
+.npm
+.eslintcache
+.stylelintcache
+.node_repl_history
