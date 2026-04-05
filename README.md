@@ -5,7 +5,7 @@
 Track, analyze, and manage your finances with clarity.
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.76-blue)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-Live%20Demo-lightgrey)](exp://u.expo.dev/94d819e1-b03d-4533-84b5-0696ac7d879b)
+[![Expo Live Demo](https://img.shields.io/badge/Expo-Live%20Demo-lightgrey)](https://expo.dev/preview/update?message=First+public+demo&updateRuntimeVersion=1.0.0&createdAt=2026-04-05T05%3A24%3A28.581Z&slug=exp&projectId=94d819e1-b03d-4533-84b5-0696ac7d879b&group=434b92d8-9ebd-4ce5-a223-3d1e6eb59285)
 [![Project Dashboard](https://img.shields.io/badge/Expo%20Dashboard-View%20Project-blueviolet)](https://expo.dev/accounts/nandiniy/projects/finance-companion)
 [![State Management](https://img.shields.io/badge/Context%20API-green)](https://react.dev/reference/react/useContext)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -140,7 +140,7 @@ You can try the app instantly using Expo Go:
 1. Install the **Expo Go** app (iOS App Store / Google Play).
 2. Open the project page: [Expo Project Dashboard](https://expo.dev/accounts/nandiniy/projects/finance-companion)
 3. Or launch directly in Expo Go using this link:  
-   `exp://u.expo.dev/94d819e1-b03d-4533-84b5-0696ac7d879b`
+   `exp://u.expo.dev/94d819e1-b03d-4533-84b5-0696ac7d879b/group/434b92d8-9ebd-4ce5-a223-3d1e6eb59285`
 4. On Android, tapping the link will open the app directly in Expo Go.  
    On iOS, open Expo Go and paste the link inside the search bar.
 
