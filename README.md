@@ -22,7 +22,7 @@ The Personal Finance Companion is a React Native app designed to help users mana
 
 🚀 Setup Instructions
 - Clone the repo:
-git clone https://github.com/your-repo/finance-companion.git
+git clone https://github.com/nandiniyacham/finance-companion.git
 cd finance-companion
 - Install dependencies:
 npm install
